@@ -1,2 +1,2 @@
 # AutoCAsT
-Generated question sequences for automated evaluation of conversational passage ranking
+A new dataset of automatically generated question sequences for evaluation of conversational passage ranking
